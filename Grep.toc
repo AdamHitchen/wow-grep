@@ -1,0 +1,6 @@
+## Interface: 11302
+## Title: Grep
+## Version: 0.1
+## Notes: Filter Text
+## Author: Hitch
+Grep.xml
